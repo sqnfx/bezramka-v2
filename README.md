@@ -8,7 +8,7 @@ Dwie rzeczy w jednym folderze:
 
 ## Uruchomienie
 
-**Windows bez instalowania czegokolwiek:** użyj gotowego `Bezramka.exe` (jeden plik) albo rozpakuj `Bezramka-1.1.0-win-x64.zip` i uruchom `Bezramka.exe` z folderu. Jeden plik przy każdym starcie rozpakowuje się kilka sekund, a wersja w folderze startuje od razu. Program nie ma podpisu cyfrowego, więc za pierwszym razem Windows może pokazać „System Windows ochronił ten komputer”. Wtedy kliknij „Więcej informacji” i „Uruchom mimo to”.
+**Windows bez instalowania czegokolwiek:** użyj gotowego `Bezramka.exe` (TBD) (jeden plik) albo rozpakuj `Bezramka-1.1.0-win-x64.zip` i uruchom `Bezramka.exe` z folderu. Jeden plik przy każdym starcie rozpakowuje się kilka sekund, a wersja w folderze startuje od razu. Program nie ma podpisu cyfrowego, więc za pierwszym razem Windows może pokazać „System Windows ochronił ten komputer”. Wtedy kliknij „Więcej informacji” i „Uruchom mimo to”.
 
 **Ze źródeł** potrzebny jest [Node.js](https://nodejs.org) w wersji LTS.
 
